@@ -5,4 +5,4 @@
 [![Ren's github stats](https://github-readme-stats.vercel.app/api?username=klren0312&show_icons=true&theme=tokyonight)](https://github.com/klren0312)
 
 
-[![dpdB0U.jpg](https://s1.ax1x.com/2020/08/13/dpdB0U.jpg)](https://imgchr.com/i/dpdB0U)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klren0312&layout=compact&hide=html,css)](https://github-readme-stats.vercel.app/api/top-langs/?username=klren0312&layout=compact&hide=html,css)
