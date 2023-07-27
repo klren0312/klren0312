@@ -2,18 +2,18 @@
 
 ## 求真 务实 坚韧 无畏, 无尽寒冬
 
-<summary><b>🔎 Github Profile Details</b></summary>
+<summary><b>🔎 Github 详情</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klren0312&theme=github_dark" alt="klren0312" align = "center"/></p>
 
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><b>⚡ Github 统计</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=klren0312&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="klren0312" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=klren0312&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="klren0312" align = "center"/></p>
 
- <summary><b>🔥 Github Streaks</b></summary>
+ <summary><b>🔥 Github 连续提交记录</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=klren0312&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="klren0312" /></p>
 
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=klren0312&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<summary><b>📊 掘金</b></summary>
+<p align="center"><a href="#"><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=3861140564876280&hide_border=true" alt="治电小白菜的掘金数据" align="center"/></a></p>
 
 
 ## :computer: 相关技术
