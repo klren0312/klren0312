@@ -23,10 +23,8 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="Javacript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img alt="node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img alt="STM32" src="https://img.shields.io/badge/ESP32-00979D?style=for-the-badge&logo=espressif&logoColor=white">
-  <img alt="ESP32" src="https://img.shields.io/badge/STM32-00979D?style=for-the-badge&logo=STMicroelectronics&logoColor=white">
+  <img alt="UBUNTU" src="https://img.shields.io/badge/Ubuntu-E94E0D?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img alt="ESP32" src="https://img.shields.io/badge/ESP32-ffffff?style=for-the-badge&logo=espressif&logoColor=DE4C45">
+  <img alt="STM32" src="https://img.shields.io/badge/STM32-FFD200?style=for-the-badge&logo=STMicroelectronics&logoColor=333333">
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klren0312&layout=compact&hide=html,css)](https://github-readme-stats.vercel.app/api/top-langs/?username=klren0312&layout=compact&hide=html,css)
