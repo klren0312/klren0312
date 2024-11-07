@@ -1,8 +1,8 @@
-# 2024, 治电十五年  <a href="https://profile-counter.glitch.me/klren0312/count.svg"><img src="https://profile-counter.glitch.me/klren0312/count.svg" /></a>
+# 2025, 治电十五年  <a href="https://profile-counter.glitch.me/klren0312/count.svg"><img src="https://profile-counter.glitch.me/klren0312/count.svg" /></a>
 
 ## 求真 务实 坚韧 无畏, 寒冬无尽, 将亡治电
 
-# 无情寒冬, 治电有情, 饱和制胜, 不饱必裁
+# 无尽冰封, 治电无力, 饱和必胜, 不饱请滚
 
 <summary><b>🔎 Github 详情</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klren0312&theme=github_dark" alt="klren0312" align = "center"/></p>
@@ -18,6 +18,7 @@
 ## :computer: 相关技术
 
 <div style="display: inline_block"><br>
+  <img alt="SUI" src="https://img.shields.io/badge/SUI-FFFFFF?style=for-the-badge&logo=SUI&logoColor=blue">
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="Javacript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
