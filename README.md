@@ -1,6 +1,8 @@
 # 2025，治电十六年 —— 求真，务实，坚韧，无畏 <a href="https://profile-counter.glitch.me/klren0312/count.svg"><img src="https://profile-counter.glitch.me/klren0312/count.svg" /></a>
+# 2025，ZZES 16th -- Truth-seeking, pragmatic, tenacious, Fearless
 
 # 无尽冰封，万物将亡，饱和必胜，不饱请滚
+# Endless Ice, all things will die, saturation will win, not full please roll
 
 <summary><b>🔎 Github 详情</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klren0312&theme=github_dark" alt="klren0312" align = "center"/></p>
