@@ -11,16 +11,11 @@
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=klren0312&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="klren0312" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=klren0312&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="klren0312" align = "center"/></p>
 
- <summary><b>🔥 Github 连续提交记录</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=klren0312&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="klren0312" /></p>
-
 
 ## :computer: 相关技术
 
 <div style="display: inline_block"><br>
   <img alt="SUI" src="https://img.shields.io/badge/SUI-FFFFFF?style=for-the-badge&logo=SUI&logoColor=blue">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="Javacript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img alt="node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img alt="UBUNTU" src="https://img.shields.io/badge/Ubuntu-E94E0D?style=for-the-badge&logo=ubuntu&logoColor=white">
